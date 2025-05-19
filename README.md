@@ -1,3 +1,4 @@
+// Typing in here to test CodeGrade submission
 # Lab - Scope
 
 ## Overview
